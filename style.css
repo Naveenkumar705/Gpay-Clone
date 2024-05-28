@@ -1,0 +1,115 @@
+@media screen and (max-width:100%){
+    .parent{
+        border: 1px solid white;
+    width: 100%;
+    height: 200px;
+    background-image: url(./images/bg.png);
+    }
+}
+.parent{
+    border: 1px solid white;
+    width: 100%;
+    height: 200px;
+    background-image: url(./images/bg.png);
+    
+}
+.top{
+    display: flex;
+     justify-content:center; 
+     margin-top: 5px;
+     }
+     .circle{
+        border: 1px solid white;
+        width: 20px;
+        text-align: center;
+        background-color: red;
+        color: white;
+        margin-left: 1rem;
+        border-radius: 10px;
+        margin-top: 2px;
+     }
+.logos{
+    border: 1px solid white;
+    width: 100%;
+}
+.logo1{
+    display: flex;
+    justify-content: space-around;
+}
+.logo2{
+    display: flex;
+    justify-content: space-around;
+}
+
+ .id{
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid white;
+    width: 100%;
+    
+}
+.active{
+    border: 1.5px dashed grey;
+    width: 150px;
+    border-radius: 10px;
+     }
+.upi{
+    border: 2px  grey;
+    width: 180px;
+    background-color: lightgray;
+    border-radius: 10px;
+}
+.people{
+    display: flex;
+    justify-content: space-around;
+    }
+    .bussiness{
+        display: flex;
+        justify-content: space-around;
+    }
+    .br{
+        display: flex;
+        justify-content: space-around;
+    }
+    .view{
+       display: flex;
+        border: 1px solid white;
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+    }
+    button{
+        color: blue;
+        border-radius: 40px;
+    }
+    .offers{
+        display: flex;
+        justify-content: space-around;
+    }
+    .invite{
+        color: blue;
+        border-radius: 40px;
+    }
+    .footer{
+        background-image: url(./images/bg.png);
+    }
+    .last{
+        text-align: center;
+    }
+    figcaption{
+        font-family:sans-serif;
+    }
+    .g{
+        color: grey;
+    }
+    h3{
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    a{
+        text-decoration-line: none;
+        color: blue;
+        background-color: white;
+    }
+    body{
+     text-transform: capitalize;
+    }
