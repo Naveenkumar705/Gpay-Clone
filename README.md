@@ -20,6 +20,9 @@ Open the index.html file in any browser.
 🔹 Implement real-time transactions (with backend integration)
 🔹 Improve animations and responsiveness
 
+# Project Live Demo
+[Live Link](https://naveenkumar705.github.io/Gpay-Clone/)
+
 # Author
 👤 Naveen Kumar V
 
